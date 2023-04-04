@@ -5,6 +5,6 @@ Calculator is a simple calculator that provides four fundamental arithmetic oper
 
 
 ## Features
--  Perform basic calculations such as addition, substraction, multiplication, division, and percentage
+-  Perform basic calculations such as addition, subtraction, multiplication, division, and percentage
 -  Easy to use with large button to minimize errors
 -  Get instant results as you type
