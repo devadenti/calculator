@@ -3,6 +3,14 @@ Calculator is a simple calculator that provides four fundamental arithmetic oper
 
 **Demo:** https://devadenti.github.io/calculator/
 
+## Theme
+
+#### Theme 1 (sylesheet.css)
+<img src="https://github.com/devadenti/calculator/blob/main/assets/theme-1.png" width="300" alt="calculator theme 1" />
+
+#### Theme 2 (stylesheet-cal2.css)
+<img src="https://github.com/devadenti/calculator/blob/main/assets/theme-2.png" width="300" alt="calculator theme 1" />
+
 
 ## Features
 -  Perform basic calculations such as addition, subtraction, multiplication, division, and percentage
